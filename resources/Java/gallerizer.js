@@ -5,7 +5,7 @@ const portfolioIMG = [
         desc: `My first character design sheet. I could do a lot better these days, but I still like it. `,
     },{
         id: 2,
-        img: "../Interactive Media Website/resources/images/Portfolio/VictoryDance.png",
+        img: "./resources/images/Portfolio/VictoryDance.png",
         desc: `The victory screen from my final game for Second year GD. `,
     },
     {
