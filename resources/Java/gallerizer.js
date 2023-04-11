@@ -1,7 +1,7 @@
 const portfolioIMG = [
     {
         id: 1,
-        img: "../Interactive Media Website/resources/images/Portfolio/2508051_Finals.jpg",
+        img: "./resources/images/Portfolio/2508051_Finals.jpg",
         desc: `My first character design sheet. I could do a lot better these days, but I still like it. `,
     },{
         id: 2,
