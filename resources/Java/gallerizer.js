@@ -114,8 +114,7 @@ function displayGallery(galleryItems){
       <a target="_blank" href="${galleryItem.img}">
         <img src="${galleryItem.img}" alt="Gallery Item">
     </a>
-    <div class="desc font italic">${galleryItem.desc}</div></div>
-    <div class="gallery">`;
+    <div class="desc font italic">${galleryItem.desc}</div></div>`;
     }).join("");
   
     sectionCenter.innerHTML = displayGallery;
