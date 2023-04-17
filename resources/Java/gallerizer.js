@@ -57,12 +57,7 @@ const portfolioIMG = [
         id: 14,
         img: "./resources/images/Portfolio/20508051_Bruce_WSOA2023Assignment2.png",
         desc: `Another classic from the first DAP game, this time the ideal screenshot. `,
-    },{
-        id: 125,
-        img: "./resources/images/Portfolio/THe worst thing I've e.jpg",
-        desc: `This... Don't even ask about this. `,
-    },
-]
+    },]
 
 const designIMG = [
     {
@@ -92,7 +87,19 @@ const designIMG = [
     },{
         id: 7,
         img: "./resources/images/Design/Profile.jpg",
-        desc: `A more finalized version of the profile page, with more detail and a better idea of how to integrate the music. `,
+        desc: `A more finalized version of the profile page, with more detail and a better idea of how to integrate the music. I did ultimately remove the vanilla spotify integration in place of my own. `,
+    },{
+        id: 8,
+        img: "./resources/images/Design/Sitemap.jpg",
+        desc: `A sitemap I drew to visualize site navigation and ensure I'm sticking to my 3 click rule. `,
+    },{
+        id: 9,
+        img: "./resources/images/Design/1st Y frame.jpeg",
+        desc: `The very first pen and paper wire frame I did. The page may be busy enough to qualify for the portfolio secion, but this is where this website was born. `,
+    },{
+        id: 10,
+        img: "resources/images/Design/2nd Y frame.jpeg",
+        desc: `A slightly more in depth pen and paper wireframe. Only a few ideas from this made it to the final product, but it was an important part of the planning process regardless. `,
     },
 ]
 
